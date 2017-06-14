@@ -237,7 +237,7 @@ func exponentialIrritative(n: Double, x: Double) -> Double
     return sum
 }
 ```
-
+Recursive
 ```swift
 func recursiveExponential(n: Double, x: Double) -> Double
 {
